@@ -1,1 +1,2 @@
-// Write read me JS
+// Write read me to JS files
+
